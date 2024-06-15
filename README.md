@@ -66,7 +66,7 @@
 <p align="center">
   <a href="https://github.com/swaroop64"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=swaroop64&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop64&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swaroop64&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 </p>
