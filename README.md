@@ -61,3 +61,28 @@
 </span>
 <hr> 
 
+### Github Stats
+  
+<p align="center">
+  <a href="https://github.com/swaroop64"><span>
+    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=swaroop64&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=swaroop64&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    </span></a>
+</p>
+  
+<be>
+
+### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=swaroop64&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+
+### 📈 GitHub Activity:
+  <a href="https://github.com/swaroop64/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kiransagar1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+
+<br>  
