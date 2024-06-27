@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/22644824/j-j-swaroop">
-  <img align="left" alt="akd's StackOverflow" width="100px" height="50px" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" />
+  <img align="left" alt="akd's StackOverflow" width="100px" height="30px" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" />
 </a>
 
 <br><br>
