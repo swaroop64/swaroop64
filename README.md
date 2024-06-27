@@ -8,7 +8,7 @@
   <img align="center" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/22644824/j-j-swaroop">
-  <img align="center" alt="akd's StackOverflow" width="100px" src="
+  <img align="center" alt="akd's StackOverflow" width="100px" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white" />
 
 <br><br>
 
