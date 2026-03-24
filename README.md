@@ -15,7 +15,7 @@
 
 <br><br>
 
-## <p align="center"><h4 align="center"><samp>Python Developer | Power BI | MS Excel | AI-ML Enthuiast</samp></h4></p>
+## <p align="center"><h4 align="center"><samp>Backend Development | Linux | Kubernetes | MySQL</samp></h4></p>
 ##
 
 <br><br>
@@ -23,9 +23,9 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 🔭 I’m currently a student at BIHER, Chennai, TN
-- 🌱 I’m currently learning Full Stack Python Development
-- 💬 Ask me about Python, Power BI and MS Excel
+- 🔭 Associate Software Engineer at Infinite Computer Solutions
+- 🌱 Working on backend validation, API testing, and system integration across telecom and digital platform projects
+- 💬 Ask me about Python, Testing and MySQL
 
   <br>
 </div>
@@ -37,8 +37,10 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+
 
 
 <span>
