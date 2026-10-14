@@ -22,31 +22,9 @@
 
 I'm an **Associate Software Engineer at Infinite Computer Solutions**, working on backend validation, API testing, and system integration across telecom and digital platform projects. I focus on reliable systems and thorough test coverage, so issues are caught before they reach production.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <b>🔭 What I do</b><br><br>
-      Backend validation<br>
-      API testing<br>
-      System integration
-    </td>
-    <td width="50%" valign="top">
-      <b>🏢 Where I work</b><br><br>
-      Infinite Computer Solutions<br>
-      Telecom projects<br>
-      Digital platforms
-    </td>
-  </tr>
-</table>
-
-<p>
-  <img src="https://img.shields.io/badge/API_Testing-1F6FEB?style=flat-square" alt="API Testing" />
-  <img src="https://img.shields.io/badge/Backend_Development-8957E5?style=flat-square" alt="Backend Development" />
-  <img src="https://img.shields.io/badge/System_Integration-0A66C2?style=flat-square" alt="System Integration" />
-  <img src="https://img.shields.io/badge/Telecom-2EA043?style=flat-square" alt="Telecom" />
+<p align="center">
+  <img src="about-card.svg" width="100%" alt="What I do, where I work, and what to ask me about" />
 </p>
-
-💬 **Ask me about:** Python, testing strategy, and MySQL
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:8957E5,100:1F6FEB&height=3" alt="" />
 
