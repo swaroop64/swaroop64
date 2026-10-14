@@ -23,7 +23,27 @@
 I'm an **Associate Software Engineer at Infinite Computer Solutions**, working on backend validation, API testing, and system integration across telecom and digital platform projects. I focus on reliable systems and thorough test coverage, so issues are caught before they reach production.
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="What I do, where I work, and what to ask me about" />
+  <img src="https://img.shields.io/badge/WHAT%20I%20DO-1F6FEB?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="WHAT I DO" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Backend%20validation-21262D?style=flat-square" alt="Backend validation" />
+  <img src="https://img.shields.io/badge/API%20testing-21262D?style=flat-square" alt="API testing" />
+  <img src="https://img.shields.io/badge/System%20integration-21262D?style=flat-square" alt="System integration" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/WHERE%20I%20WORK-8957E5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="WHERE I WORK" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Infinite%20Computer%20Solutions-21262D?style=flat-square" alt="Infinite Computer Solutions" />
+  <img src="https://img.shields.io/badge/Telecom%20projects-21262D?style=flat-square" alt="Telecom projects" />
+  <img src="https://img.shields.io/badge/Digital%20platforms-21262D?style=flat-square" alt="Digital platforms" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-2EA043?style=for-the-badge&logo=stackexchange&logoColor=white" alt="ASK ME ABOUT" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Testing%20strategy-21262D?style=flat-square" alt="Testing strategy" />
+  <img src="https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:8957E5,100:1F6FEB&height=3" alt="" />
