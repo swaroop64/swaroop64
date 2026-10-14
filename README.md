@@ -22,29 +22,31 @@
 
 I'm an **Associate Software Engineer at Infinite Computer Solutions**, working on backend validation, API testing, and system integration across telecom and digital platform projects. I focus on reliable systems and thorough test coverage, so issues are caught before they reach production.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WHAT%20I%20DO-1F6FEB?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="WHAT I DO" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Backend%20validation-21262D?style=flat-square" alt="Backend validation" />
-  <img src="https://img.shields.io/badge/API%20testing-21262D?style=flat-square" alt="API testing" />
-  <img src="https://img.shields.io/badge/System%20integration-21262D?style=flat-square" alt="System integration" />
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔭 What I do</b><br><br>
+      Backend validation<br>
+      API testing<br>
+      System integration
+    </td>
+    <td width="50%" valign="top">
+      <b>🏢 Where I work</b><br><br>
+      Infinite Computer Solutions<br>
+      Telecom projects<br>
+      Digital platforms
+    </td>
+  </tr>
+</table>
+
+<p>
+  <img src="https://img.shields.io/badge/API_Testing-1F6FEB?style=flat-square" alt="API Testing" />
+  <img src="https://img.shields.io/badge/Backend_Development-8957E5?style=flat-square" alt="Backend Development" />
+  <img src="https://img.shields.io/badge/System_Integration-0A66C2?style=flat-square" alt="System Integration" />
+  <img src="https://img.shields.io/badge/Telecom-2EA043?style=flat-square" alt="Telecom" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WHERE%20I%20WORK-8957E5?style=for-the-badge&logo=googlecloud&logoColor=white" alt="WHERE I WORK" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Infinite%20Computer%20Solutions-21262D?style=flat-square" alt="Infinite Computer Solutions" />
-  <img src="https://img.shields.io/badge/Telecom%20projects-21262D?style=flat-square" alt="Telecom projects" />
-  <img src="https://img.shields.io/badge/Digital%20platforms-21262D?style=flat-square" alt="Digital platforms" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-2EA043?style=for-the-badge&logo=stackexchange&logoColor=white" alt="ASK ME ABOUT" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Testing%20strategy-21262D?style=flat-square" alt="Testing strategy" />
-  <img src="https://img.shields.io/badge/MySQL-21262D?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+💬 **Ask me about:** Python, testing strategy, and MySQL
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:8957E5,100:1F6FEB&height=3" alt="" />
 
