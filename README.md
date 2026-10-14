@@ -1,186 +1,80 @@
-<!-- INTRODUCTION -->
-
-<h1 align="center">Hey there! 👋 I'm J J Swaroop</h1>
-
-<h3 align="center">
-  Associate Software Engineer | Backend Systems | API Testing
-</h3>
-
+<!-- ========== HEADER ========== -->
 <p align="center">
-  Building reliable software through backend validation, API testing, and system integration.
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:8957E5&height=200&section=header&text=J%20J%20Swaroop&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Associate%20Software%20Engineer%20%C2%B7%20Infinite%20Computer%20Solutions&descSize=16&descAlignY=58" alt="J J Swaroop" />
 </p>
 
 <p align="center">
   <a href="https://github.com/swaroop64">
-    <img src="https://img.shields.io/badge/GitHub-swaroop64-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jjswaroop22">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/22644824/j-j-swaroop">
-    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=660&height=40&lines=Backend+Validation+%26+API+Testing;Telecom+%26+Digital+Platform+Integration;Python+%7C+MySQL+%7C+Linux+%7C+Kubernetes" alt="Typing tagline" />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/jjswaroop22"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/swaroop64"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/22644824/j-j-swaroop"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
+</p>
 
-## 👨‍💻 About Me
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" alt="" />
 
-I'm an **Associate Software Engineer at Infinite Computer Solutions**, working with backend systems, API validation, and system integration across digital platforms and telecom order management systems.
+<!-- ========== ABOUT ========== -->
+## 👨‍💻 About
 
-My work involves validating application workflows, testing APIs, performing database checks, and investigating backend processing using Linux-based tools.
+I'm an **Associate Software Engineer at Infinite Computer Solutions**, working on backend validation, API testing, and system integration across telecom and digital platform projects. I focus on reliable systems and thorough test coverage, so issues are caught before they reach production.
 
-I enjoy understanding how systems work behind the scenes, solving technical problems, and continuously expanding my engineering skills.
-
-* 💼 **Current Role:** Associate Software Engineer at Infinite Computer Solutions
-* 🔧 **Core Focus:** API Testing, Backend Validation & System Integration Testing
-* 🗄️ **Database:** MySQL
-* 💻 **Programming:** Python, SQL & JavaScript fundamentals
-* 🐧 **Environment & Tools:** Linux, Postman, Git & MobaXterm
-* 🤖 **Currently Exploring:** Generative AI and LLM-powered applications
-* 🎯 **Goal:** Build strong software engineering fundamentals and develop practical, production-oriented applications.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming & Databases
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🔭 What I do</b><br><br>
+      Backend validation<br>
+      API testing<br>
+      System integration
+    </td>
+    <td width="50%" valign="top">
+      <b>🏢 Where I work</b><br><br>
+      Telecom projects<br>
+      Digital platforms<br>
+      Infinite Computer Solutions
+    </td>
+  </tr>
+</table>
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/API_Testing-1F6FEB?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_Development-8957E5?style=flat-square" />
+  <img src="https://img.shields.io/badge/System_Integration-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Telecom-2EA043?style=flat-square" />
 </p>
 
-### 🧪 Testing & Backend
+💬 **Ask me about:** Python, testing strategy, and MySQL
 
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/API_Testing-0A7EA4?style=for-the-badge" alt="API Testing"/>
-  <img src="https://img.shields.io/badge/Backend_Validation-34495E?style=for-the-badge" alt="Backend Validation"/>
-  <img src="https://img.shields.io/badge/Integration_Testing-6C3483?style=for-the-badge" alt="Integration Testing"/>
-</p>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:8957E5,100:1F6FEB&height=3" alt="" />
 
-### ⚙️ Tools & Platforms
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/MobaXterm-0078D4?style=for-the-badge" alt="MobaXterm"/>
-</p>
-
-### 📡 Domain Knowledge
-
-* Telecom order management workflows
-* Order lifecycle validation and provisioning
-* Backend processing and log verification
-* Database validation and troubleshooting
-* Pre-production and production environment testing
-
----
-
-## 💼 Professional Experience
-
-### Associate Software Engineer — Infinite Computer Solutions
-
-**Focus Areas: Nokia FlowOne & Tata Play Digital Platform**
-
-* Perform API testing and backend validation to verify application behavior and data consistency.
-* Execute workflow and system integration testing across digital and telecom platforms.
-* Validate telecom order lifecycle activities, including order creation, processing, completion, and rollback.
-* Use MySQL queries to verify database records and investigate inconsistencies.
-* Work with Linux commands, backend logs, and remote access tools to investigate processing issues.
-* Use Postman and related testing tools to validate application services and workflows.
-
-*My responsibilities vary across projects and testing environments.*
-
----
-
-## 🚀 Projects
-
-I use personal projects to strengthen my programming, problem-solving, and application development skills.
-
-### 📄 Automated Document Classification using YOLOv3 and Tkinter for Real-Time Segmentation
-
-* Developed a desktop application for detecting and classifying visual elements in PDF documents.
-* Integrated YOLOv3 for object detection and OpenCV for image processing.
-* Used pdf2image to convert PDF pages into images.
-* Built a graphical interface using Tkinter.
-
-**Technologies:** Python, YOLOv3, OpenCV, Tkinter, pdf2image
-
-### 🍽️ FOOD-E — Restaurant Management System
-
-* Developed a desktop-based restaurant management application.
-* Used a graphical interface to organize restaurant management operations.
-* Integrated SQLite3 for local database storage.
-
-**Technologies:** Python, Tkinter, SQLite3
-
-### 🚆 Railway Reservation System
-
-* Created a console-based railway reservation application.
-* Implemented reservation-related operations and CSV-based data storage.
-* Practiced file handling, data management, and Python programming fundamentals.
-
-**Technologies:** Python, CSV
-
-> Explore my repositories for source code, implementation details, and additional projects.
-
----
-
-## 🌱 Currently Learning
-
-I'm continuously developing my engineering skills, with a growing interest in Generative AI and practical AI application development.
-
-* Python programming and problem-solving
-* Data structures and algorithms
-* REST APIs and backend development
-* Machine learning and deep learning fundamentals
-* Large Language Models (LLMs) and LLM APIs
-* Retrieval-Augmented Generation (RAG)
-* AI application development and deployment
-
-My focus is on building practical applications that combine strong software engineering fundamentals with emerging AI technologies.
-
----
-
-## 📊 GitHub Statistics
+<!-- ========== STACK ========== -->
+## 🧰 Tech Stack
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=swaroop64&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Swaroop's GitHub Statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop64&theme=tokyonight&hide_border=true"
-    alt="Swaroop's GitHub Streak"
-    height="165"
-  />
+  <img src="https://skillicons.dev/icons?i=python,mysql,linux,kubernetes,js,html,css,git,github,vscode&perline=10&theme=dark" alt="Tech stack" />
+</p>
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:8957E5&height=3" alt="" />
+
+<!-- ========== STATS ========== -->
+## 📊 GitHub Activity
+
+<p align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=swaroop64&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363D&border_radius=10&count_private=true&include_all_commits=true&title_color=58A6FF&icon_color=8957E5&bg_color=0D1117&text_color=C9D1D9" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop64&layout=donut&langs_count=6&theme=tokyonight&border_color=30363D&border_radius=10&title_color=58A6FF&bg_color=0D1117&text_color=C9D1D9" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-  />
+  <img src="https://streak-stats.demolab.com/?user=swaroop64&theme=tokyonight&border_radius=10&background=0D1117&border=30363D&ring=8957E5&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak" />
 </p>
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, learning from the community, and exploring opportunities to build meaningful software.
+<br>
 
 <p align="center">
-  <a href="https://github.com/swaroop64">GitHub</a> •
-  <a href="https://www.linkedin.com/in/jjswaroop22">LinkedIn</a> •
-  <a href="https://stackoverflow.com/users/22644824/j-j-swaroop">Stack Overflow</a>
+  <i>Open to connect and collaborate: reach out on <a href="https://www.linkedin.com/in/jjswaroop22">LinkedIn</a>.</i>
 </p>
 
-<p align="center">
-  <i>Learning continuously. Building consistently. Improving every day.</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,50:1F6FEB,100:0D1117&height=110&section=footer" alt="" />
