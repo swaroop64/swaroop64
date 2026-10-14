@@ -1,88 +1,186 @@
-<!-- HEADER BANNER -->
+<!-- INTRODUCTION -->
+
+<h1 align="center">Hey there! 👋 I'm J J Swaroop</h1>
+
+<h3 align="center">
+  Associate Software Engineer | Backend Systems | API Testing
+</h3>
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=190&section=header&text=J%20J%20Swaroop&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Associate%20Software%20Engineer%20%7C%20Infinite%20Computer%20Solutions&descSize=16&descAlignY=60" alt="J J Swaroop banner" />
+  Building reliable software through backend validation, API testing, and system integration.
 </p>
 
-<!-- TYPING TAGLINE -->
 <p align="center">
   <a href="https://github.com/swaroop64">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&height=40&lines=Backend+Validation+%26+API+Testing;Telecom+%26+Digital+Platform+Integration;Python+%7C+MySQL+%7C+Linux+%7C+Kubernetes" alt="Typing tagline" />
+    <img src="https://img.shields.io/badge/GitHub-swaroop64-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-</p>
-
-<!-- SOCIAL LINKS -->
-<p align="center">
   <a href="https://www.linkedin.com/in/jjswaroop22">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/swaroop64">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://stackoverflow.com/users/22644824/j-j-swaroop">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack_Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </p>
 
-<br>
+---
 
 ## 👨‍💻 About Me
 
-I'm an **Associate Software Engineer at Infinite Computer Solutions**, working on backend validation, API testing, and system integration across telecom and digital platform projects. I care about reliable systems, clean test coverage, and catching problems before they reach production.
+I'm an **Associate Software Engineer at Infinite Computer Solutions**, working with backend systems, API validation, and system integration across digital platforms and telecom order management systems.
 
-| | |
-|---|---|
-| 🔭 **Currently** | Backend validation, API testing and system integration |
-| 🏢 **Domain** | Telecom and digital platforms |
-| 🛠️ **Core focus** | API Testing · Backend Development · Linux · Kubernetes · MySQL |
-| 💬 **Ask me about** | Python, testing strategy, and MySQL |
+My work involves validating application workflows, testing APIs, performing database checks, and investigating backend processing using Linux-based tools.
 
-<br>
+I enjoy understanding how systems work behind the scenes, solving technical problems, and continuously expanding my engineering skills.
 
-## 🧰 Tech Stack
+* 💼 **Current Role:** Associate Software Engineer at Infinite Computer Solutions
+* 🔧 **Core Focus:** API Testing, Backend Validation & System Integration Testing
+* 🗄️ **Database:** MySQL
+* 💻 **Programming:** Python, SQL & JavaScript fundamentals
+* 🐧 **Environment & Tools:** Linux, Postman, Git & MobaXterm
+* 🤖 **Currently Exploring:** Generative AI and LLM-powered applications
+* 🎯 **Goal:** Build strong software engineering fundamentals and develop practical, production-oriented applications.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,linux,kubernetes,js,html,css&perline=7" alt="Languages and technologies" />
-  </a>
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
-<h4 align="center">Tools &amp; Platforms</h4>
+### 🧪 Testing & Backend
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools and platforms" />
-  </a>
-  <br><br>
-  <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/API_Testing-0A7EA4?style=for-the-badge" alt="API Testing"/>
+  <img src="https://img.shields.io/badge/Backend_Validation-34495E?style=for-the-badge" alt="Backend Validation"/>
+  <img src="https://img.shields.io/badge/Integration_Testing-6C3483?style=for-the-badge" alt="Integration Testing"/>
 </p>
 
-<br>
+### ⚙️ Tools & Platforms
 
-## 📊 GitHub Activity
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/MobaXterm-0078D4?style=for-the-badge" alt="MobaXterm"/>
+</p>
+
+### 📡 Domain Knowledge
+
+* Telecom order management workflows
+* Order lifecycle validation and provisioning
+* Backend processing and log verification
+* Database validation and troubleshooting
+* Pre-production and production environment testing
+
+---
+
+## 💼 Professional Experience
+
+### Associate Software Engineer — Infinite Computer Solutions
+
+**Focus Areas: Nokia FlowOne & Tata Play Digital Platform**
+
+* Perform API testing and backend validation to verify application behavior and data consistency.
+* Execute workflow and system integration testing across digital and telecom platforms.
+* Validate telecom order lifecycle activities, including order creation, processing, completion, and rollback.
+* Use MySQL queries to verify database records and investigate inconsistencies.
+* Work with Linux commands, backend logs, and remote access tools to investigate processing issues.
+* Use Postman and related testing tools to validate application services and workflows.
+
+*My responsibilities vary across projects and testing environments.*
+
+---
+
+## 🚀 Projects
+
+I use personal projects to strengthen my programming, problem-solving, and application development skills.
+
+### 📄 Automated Document Classification using YOLOv3 and Tkinter for Real-Time Segmentation
+
+* Developed a desktop application for detecting and classifying visual elements in PDF documents.
+* Integrated YOLOv3 for object detection and OpenCV for image processing.
+* Used pdf2image to convert PDF pages into images.
+* Built a graphical interface using Tkinter.
+
+**Technologies:** Python, YOLOv3, OpenCV, Tkinter, pdf2image
+
+### 🍽️ FOOD-E — Restaurant Management System
+
+* Developed a desktop-based restaurant management application.
+* Used a graphical interface to organize restaurant management operations.
+* Integrated SQLite3 for local database storage.
+
+**Technologies:** Python, Tkinter, SQLite3
+
+### 🚆 Railway Reservation System
+
+* Created a console-based railway reservation application.
+* Implemented reservation-related operations and CSV-based data storage.
+* Practiced file handling, data management, and Python programming fundamentals.
+
+**Technologies:** Python, CSV
+
+> Explore my repositories for source code, implementation details, and additional projects.
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously developing my engineering skills, with a growing interest in Generative AI and practical AI application development.
+
+* Python programming and problem-solving
+* Data structures and algorithms
+* REST APIs and backend development
+* Machine learning and deep learning fundamentals
+* Large Language Models (LLMs) and LLM APIs
+* Retrieval-Augmented Generation (RAG)
+* AI application development and deployment
+
+My focus is on building practical applications that combine strong software engineering fundamentals with emerging AI technologies.
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=swaroop64&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=2F81F7&icon_color=2F81F7" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=2F81F7" alt="Top languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=swaroop64&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Swaroop's GitHub Statistics"
+    height="165"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop64&theme=tokyonight&hide_border=true"
+    alt="Swaroop's GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=swaroop64&theme=tokyonight&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" alt="GitHub streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+  />
 </p>
 
-<br>
+---
 
-## 🏆 Achievements
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, learning from the community, and exploring opportunities to build meaningful software.
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=swaroop64&column=7&theme=onedark&no-frame=true&no-bg=true" alt="GitHub trophies" />
-  </a>
+  <a href="https://github.com/swaroop64">GitHub</a> •
+  <a href="https://www.linkedin.com/in/jjswaroop22">LinkedIn</a> •
+  <a href="https://stackoverflow.com/users/22644824/j-j-swaroop">Stack Overflow</a>
 </p>
-
-<br>
 
 <p align="center">
-  <i>Open to connect and collaborate. Reach out on <a href="https://www.linkedin.com/in/jjswaroop22">LinkedIn</a>.</i>
+  <i>Learning continuously. Building consistently. Improving every day.</i>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=110&section=footer" alt="footer" />
